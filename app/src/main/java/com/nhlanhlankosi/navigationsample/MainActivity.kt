@@ -15,7 +15,6 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.nhlanhlankosi.ThirdScreen
 import com.nhlanhlankosi.navigationsample.ui.theme.NavigationSampleTheme
 
 class MainActivity : ComponentActivity() {

@@ -1,4 +1,4 @@
-package com.nhlanhlankosi
+package com.nhlanhlankosi.navigationsample
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
